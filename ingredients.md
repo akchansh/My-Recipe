@@ -1,0 +1,11 @@
+1 = all purpose flour, or (plain flour)
+2 = unsweetened cocoa powder
+3 = baking powder
+4 = baking soda
+5 = salt
+6 = white granulated sugar
+7 = large eggs
+8 = milk
+9 = vegetable oil
+10 = pure vanilla extract
+11 = boiling water
